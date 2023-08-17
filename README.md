@@ -51,7 +51,7 @@ Follow these steps to set up the project in Visual Studio:
     <br> <br>
     **Screenshot-3:**<br>
     ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/6ab88ef4-7c49-4548-99a3-52cb665e9385)
-    <br> 
+    <br> <br>
 
 ## Contribution
 
