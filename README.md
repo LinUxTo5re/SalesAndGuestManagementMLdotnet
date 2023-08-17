@@ -55,6 +55,6 @@ Follow these steps to set up the project in Visual Studio:
 
 ## Contribution
 
-- Aadarsh Tiwari: [GitHub Profile](https://github.com/aadarsh0001)
+- Aadarsh Tiwari: https://github.com/aadarsh0001
 
 Licensed by **GNU**
