@@ -39,7 +39,7 @@ Follow these steps to set up the project in Visual Studio:
 
 1. Clone or download the project repository to your local machine.
 <pre>
-<code>bash
+<code>
 git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git
 </code>
 </pre>
