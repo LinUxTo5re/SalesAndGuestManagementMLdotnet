@@ -40,6 +40,7 @@ Follow these steps to set up the project in Visual Studio:
 1. Clone or download the project repository to your local machine.
 ```bash
 git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git
+```bash
 2. Open Microsoft SQL Server and set up a database. Execute the stored procedure provided in the `ML_POC.sql` file.
 3. If you don't have access to our database, it's recommended to create your own SQL/NoSQL database and modify the code and queries according to your needs.
 4. Unzip or open the downloaded folder and double-click on `HourlySalesReport.sln` to open the project in Visual Studio.
