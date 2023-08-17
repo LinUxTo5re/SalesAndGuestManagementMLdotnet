@@ -15,18 +15,18 @@ Welcome to the Sales and Guest Projection project repository!
   ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/183f597d-77d8-4a69-b6f6-b2a804b567f7)
     <br>
 ## Columns Definition
-- **Time**: Column used to describe the timestamp for guest count.
-- **Guest Count**: Actual guest count for the specified timestamp.
-- **Projected MyStore**: Projected guest count using the Average algorithm in the existing application.
-- **Projected ML**: Projected guest count using machine learning (ML.NET).
-- **Difference ML**: Guest Count - Projected ML.
-- **Difference SDM**: Guest Count - Projected MyStore.
+- **Time** : Column used to describe the timestamp for guest count.
+- **Guest Count** : Actual guest count for the specified timestamp.
+- **Projected MyStore** : Projected guest count using the Average algorithm in the existing application.
+- **Projected ML** : Projected guest count using machine learning (ML.NET).
+- **Difference ML** : Guest Count - Projected ML.
+- **Difference SDM** : Guest Count - Projected MyStore.
 
 ## Technologies Used
 - ML.NET
 - C#
 - MVVM (Model-View-ViewModel)
-- Microsoft SQL Server Management
+- Microsoft SQL Server Management (SSMS)
 - WPF (Windows Presentation Foundation)
 
 ## Getting Started
@@ -35,7 +35,7 @@ Follow these steps to set up the project in Visual Studio:
 ### Requirements
 - Visual Studio (Any version is compatible)
 - Microsoft SQL Server
-- .NET 5.0 (preferred)
+- .NET 5.0*
 
 1. Clone or download the project repository to your local machine.
 2. Open Microsoft SQL Server and set up a database. Execute the stored procedure provided in the `ML_POC.sql` file.
@@ -45,7 +45,7 @@ Follow these steps to set up the project in Visual Studio:
 6. In the `settings.settings` page, locate the `data source` setting and update it with your server's name as demonstrated in `Screenshot-3`. Save the changes and close the `settings.settings` page.
 7. Click the "Start" button in Visual Studio to run the application.
 
-## Please refer to the following screenshots for guidance:
+## Set Up SSMS Instance and Update settings.settings:
 <br> <br>
     **Screenshot-1:** <br>
     ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/bbffc772-8648-479b-a73a-c2fe49f544c4)
@@ -61,3 +61,24 @@ Follow these steps to set up the project in Visual Studio:
 - Aadarsh Tiwari: [GitHub Profile](https://github.com/aadarsh0001)
 
 Licensed under **GNU**
+
+To clone this repository to your local machine, use the following command:
+
+```html
+<button id="copyButton" data-clipboard-target="#cloneCommand">Copy</button>
+<pre>
+<code id="cloneCommand">git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git</code>
+</pre>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
+<script>
+    var clipboard = new ClipboardJS('#copyButton');
+
+    clipboard.on('success', function (e) {
+        e.clearSelection();
+    });
+
+    clipboard.on('error', function (e) {
+        console.error('Action:', e.action);
+        console.error('Trigger:', e.trigger);
+    });
+</script>
