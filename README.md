@@ -38,6 +38,9 @@ Follow these steps to set up the project in Visual Studio:
 - .NET 5.0*
 
 1. Clone or download the project repository to your local machine.
+    ```html
+    git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git
+    ```html
 2. Open Microsoft SQL Server and set up a database. Execute the stored procedure provided in the `ML_POC.sql` file.
 3. If you don't have access to our database, it's recommended to create your own SQL/NoSQL database and modify the code and queries according to your needs.
 4. Unzip or open the downloaded folder and double-click on `HourlySalesReport.sln` to open the project in Visual Studio.
@@ -61,24 +64,3 @@ Follow these steps to set up the project in Visual Studio:
 - Aadarsh Tiwari: [GitHub Profile](https://github.com/aadarsh0001)
 
 Licensed under **GNU**
-
-To clone this repository to your local machine, use the following command:
-
-```html
-<button id="copyButton" data-clipboard-target="#cloneCommand">Copy</button>
-<pre>
-<code id="cloneCommand">git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git</code>
-</pre>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-<script>
-    var clipboard = new ClipboardJS('#copyButton');
-
-    clipboard.on('success', function (e) {
-        e.clearSelection();
-    });
-
-    clipboard.on('error', function (e) {
-        console.error('Action:', e.action);
-        console.error('Trigger:', e.trigger);
-    });
-</script>
