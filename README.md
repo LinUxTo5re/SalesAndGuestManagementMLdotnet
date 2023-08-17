@@ -2,9 +2,9 @@
 
 Welcome to the Sales and Guest Projection project repository!
 
-- Explore the Sales and Guest Projection repository, utilizing ML.NET, C#, MVVM, Microsoft SQL Server, and WPF.
+- Explore the Sales and Guest Projection repository, utilizing ML.NET, C#, MVVM, Microsoft SQL Server and WPF.
 - Predict future guests using advanced tech - historical data fuels projections for upcoming days.
-- Tap into past actual and projected guests for accurate guest forecasts; a powerful business tool.
+- Tap into past actual and projected guests for accurate guest forecasts, a powerful business tool.
 - The same logic can be applied for future sales projections using machine learning with the help of ML.NET.
 
 ## Projected Results
@@ -19,8 +19,8 @@ Welcome to the Sales and Guest Projection project repository!
 - **Guest Count** : Actual guest count for the specified timestamp.
 - **Projected MyStore** : Projected guest count using the Average algorithm in the existing application.
 - **Projected ML** : Projected guest count using machine learning (ML.NET).
-- **Difference ML** : Guest Count - Projected ML.
-- **Difference SDM** : Guest Count - Projected MyStore.
+- **Difference ML** : **Guest Count - Projected ML**
+- **Difference SDM** : **Guest Count - Projected MyStore**
 
 ## Technologies Used
 - ML.NET
@@ -45,10 +45,10 @@ git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git
 </pre>
 2. Open Microsoft SQL Server and set up a database. Execute the stored procedure provided in the `ML_POC.sql` file.
 3. If you don't have access to our database, it's recommended to create your own SQL/NoSQL database and modify the code and queries according to your needs.
-4. Unzip or open the downloaded folder and double-click on `HourlySalesReport.sln` to open the project in Visual Studio.
+4. Unzip or open the downloaded folder or go to cloned directory in your system and double-click on `HourlySalesReport.sln` to open the project in Visual Studio.
 5. Make a configuration adjustment: Search for `settings.settings` in the Solution Explorer's search bar and open `settings.settings`.
 6. In the `settings.settings` page, locate the `data source` setting and update it with your server's name as demonstrated in `Screenshot-3`. Save the changes and close the `settings.settings` page.
-7. Click the "Start" button in Visual Studio to run the application.
+7. Run the application and enjoy the code.
 
 ## Set Up SSMS Instance and Update settings.settings:
 <br> <br>
