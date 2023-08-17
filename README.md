@@ -15,9 +15,9 @@ Welcome to the SalesProjection project repository! This application employs vari
 
 - ML.NET
 - C#
-- MVVM (Model-View-ViewModel) architectural pattern
-- Microsoft SQL Server for robust database management
-- WPF (Windows Presentation Foundation) for a modern and interactive user interface
+- MVVM (Model-View-ViewModel)
+- Microsoft SQL Server Management
+- WPF (Windows Presentation Foundation)
 
 ## Getting Started
 
@@ -34,10 +34,11 @@ Follow these steps to set up the project in Visual Studio:
 
 1. Clone or download the project repository to your local machine.
 2. Open Microsoft SQL Server and set up a database. Execute the stored procedure provided in the `ML_POC.sql` file.
-3. Unzip or open the downloaded folder and double-click on `HourlySalesReport.sln` to open the project in Visual Studio.
-4. Make a configuration adjustment: Search for `settings.settings` in the Solution Explorer's search bar and open `settings.settings`.
-5. In the `settings.settings` page, locate the `data source` setting and update it with your server's name as demonstrated in `screenshot-3`. Save the changes and close the `settings.settings` page.
-6. Click the "Start" button in Visual Studio to run the application.
+3. You'll not have an access of our database, so It's recommended to create your own Sql/NoSql database and modify code and queries according your need.
+4. Unzip or open the downloaded folder and double-click on `HourlySalesReport.sln` to open the project in Visual Studio.
+5. Make a configuration adjustment: Search for `settings.settings` in the Solution Explorer's search bar and open `settings.settings`.
+6. In the `settings.settings` page, locate the `data source` setting and update it with your server's name as demonstrated in `screenshot-3`. Save the changes and close the `settings.settings` page.
+7. Click the "Start" button in Visual Studio to run the application.
 <br> <br>
 ## Please refer to the following screenshots for guidance:
 <br> <br>
@@ -52,12 +53,8 @@ Follow these steps to set up the project in Visual Studio:
     <br> <br>
 
 
-## Team Members
+## Contribution
 
-A special acknowledgment to the following team member for their invaluable contribution to this project:
+- Aadarsh Tiwari: [GitHub Profile](https://github.com/aadarsh0001)
 
-- Chaitanya Ajabe: [GitHub Profile](https://github.com/LinUxTo5re)
-
-## Let's Collaborate
-
-Feel free to explore the codebase, contribute, and take advantage of this application's capabilities in predicting sales projections through ML.NET, C#, MVVM, WPF, and SQL Server. If you encounter any issues, have questions, or would like to collaborate, please don't hesitate to reach out. Together, let's push the boundaries of sales projection using advanced technologies. Happy coding!
+  Licensed by ##GNU
