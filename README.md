@@ -7,13 +7,13 @@ Welcome to the Sales and Guest Projection project repository!
 - Tap into past actual and projected guests for accurate guest forecasts; a powerful business tool.
 - The same logic can be applied for future sales projections using machine learning with the help of ML.NET.
 
-## Some Best Projections
-**Projection - 1:**  
-![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/raw/main/assets/117271222/99c01e95-2589-4327-a251-d14faf9cf387)  
-
-**Projection - 2:**  
-![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/raw/main/assets/117271222/183f597d-77d8-4a69-b6f6-b2a804b567f7)
-
+## Projected Results
+**Projection - 1:** <br>
+  ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/99c01e95-2589-4327-a251-d14faf9cf387)
+  <br> <br>
+  **Projection - 2:** <br>
+  ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/183f597d-77d8-4a69-b6f6-b2a804b567f7)
+    <br>
 ## Columns Definition
 - **Time**: Column used to describe the timestamp for guest count.
 - **Guest Count**: Actual guest count for the specified timestamp.
@@ -45,17 +45,17 @@ Follow these steps to set up the project in Visual Studio:
 6. In the `settings.settings` page, locate the `data source` setting and update it with your server's name as demonstrated in `Screenshot-3`. Save the changes and close the `settings.settings` page.
 7. Click the "Start" button in Visual Studio to run the application.
 
-## Screenshots
-Please refer to the following screenshots for guidance:
-
-**Screenshot-1:**  
-![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/raw/main/assets/117271222/bbffc772-8648-479b-a73a-c2fe49f544c4)  
-
-**Screenshot-2:**  
-![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/raw/main/assets/117271222/a05ceaef-84e5-4e92-bd6c-e78f89a428ac)  
-
-**Screenshot-3:**  
-![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/raw/main/assets/117271222/6ab88ef4-7c49-4548-99a3-52cb665e9385)  
+## Please refer to the following screenshots for guidance:
+<br> <br>
+    **Screenshot-1:** <br>
+    ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/bbffc772-8648-479b-a73a-c2fe49f544c4)
+    <br> <br>
+    **Screenshot-2:** <br>
+    ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/a05ceaef-84e5-4e92-bd6c-e78f89a428ac)
+    <br> <br>
+    **Screenshot-3:**<br>
+    ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/6ab88ef4-7c49-4548-99a3-52cb665e9385)
+    <br> <br>
 
 ## Contribution
 - Aadarsh Tiwari: [GitHub Profile](https://github.com/aadarsh0001)
