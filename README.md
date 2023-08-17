@@ -63,6 +63,6 @@ git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git
     <br> <br>
 
 ## Contributors
-- Aadarsh Tiwari: [GitHub Profile](https://github.com/aadarsh0001)
+- Aadarsh Tiwari: (https://github.com/aadarsh0001
 
 Licensed under **GNU**
