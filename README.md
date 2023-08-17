@@ -62,7 +62,7 @@ git clone https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet.git
     ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/6ab88ef4-7c49-4548-99a3-52cb665e9385)
     <br> <br>
 
-## Contribution
+## Contributors
 - Aadarsh Tiwari: [GitHub Profile](https://github.com/aadarsh0001)
 
 Licensed under **GNU**
