@@ -1,6 +1,6 @@
 # Guest Projection Using Machine Learning in C#(ML.NET) <br>
-Welcome to the SalesProjection project repository! <br>
-- Explore the SalesProjection repository, utilizing ML.NET, C#, MVVM, Microsoft SQL Server, and WPF. <br>
+Welcome to the Sales And Guest Projection project repository! <br>
+- Explore the Sales And Guest Projection repository, utilizing ML.NET, C#, MVVM, Microsoft SQL Server, and WPF. <br>
 - Predict future guest using advanced tech - historical data fuels projections for upcoming days. <br>
 - Tap into past actual and projected guest for accurate guest forecasts, a powerful business tool. <br>
 - same logic can be applied for future sales projections using machine learning with the help of ML.NET
@@ -45,10 +45,10 @@ Follow these steps to set up the project in Visual Studio:
 <br> <br>
     **Screenshot-1:** <br>
     ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/bbffc772-8648-479b-a73a-c2fe49f544c4)
-    <br> 
+    <br> <br>
     **Screenshot-2:** <br>
     ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/a05ceaef-84e5-4e92-bd6c-e78f89a428ac)
-    <br> 
+    <br> <br>
     **Screenshot-3:**<br>
     ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/6ab88ef4-7c49-4548-99a3-52cb665e9385)
     <br> 
