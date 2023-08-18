@@ -1,4 +1,4 @@
-# Guest and Sales Projection Using Machine Learning in C# (ML.NET)
+# Guest and Sales Projection/Visualization Using Machine Learning in C# (ML.NET)
 
 Welcome to the Sales and Guest Projection project repository!
 
@@ -6,6 +6,7 @@ Welcome to the Sales and Guest Projection project repository!
 - Predict future guests using advanced tech - historical data fuels projections for upcoming days.
 - Tap into past actual and projected guests for accurate guest forecasts, a powerful business tool.
 - The same logic can be applied for future sales projections using machine learning with the help of ML.NET.
+- In bonus, take a look of data visualization where we've used Line chart and bar graph.
 
 ## Projected Results
 **Projection - 1:** <br>
@@ -14,6 +15,10 @@ Welcome to the Sales and Guest Projection project repository!
   **Projection - 2:** <br>
   ![image](https://github.com/aadarsh0001/SalesProjectionUsingMLdotNET/assets/117271222/183f597d-77d8-4a69-b6f6-b2a804b567f7)
     <br>
+**Visualization Sample**<br>
+![image](https://github.com/LinUxTo5re/SalesAndGuestManagementMLdotnet/assets/90641894/6675e439-6545-4667-9329-86c0188ca8d9)
+    <br>
+
 ## Columns Definition
 - **Time** : Column used to describe the timestamp for guest count.
 - **Guest Count** : Actual guest count for the specified timestamp.
@@ -24,6 +29,7 @@ Welcome to the Sales and Guest Projection project repository!
 
 ## Technologies Used
 - ML.NET
+- OxyPlot (Data Visualization)
 - C#
 - MVVM (Model-View-ViewModel)
 - Microsoft SQL Server Management (SSMS)
